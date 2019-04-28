@@ -2,7 +2,7 @@
     "manifest_version": 2,
 
     "name": "Bandcamp Saver",
-    "version": "1.2.4",
+    "version": "1.2.5",
     "description": "Feel free to download mp3 from Bandcamp",
 
     "permissions": [
